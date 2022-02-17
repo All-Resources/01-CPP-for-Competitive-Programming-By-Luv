@@ -1,3 +1,3 @@
 # 01-CPP-for-Competitive-Programming-By-Luv
 
-This is 
+C++ Important Concepts Before Learning Cp
